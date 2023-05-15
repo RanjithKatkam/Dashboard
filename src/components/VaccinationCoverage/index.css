@@ -1,0 +1,14 @@
+.firstChart {
+  background-color: #1c1c2b;
+  padding: 10px;
+  border-radius: 9px;
+  margin-bottom: 15px;
+}
+
+.coverage-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  padding: 20px;
+}

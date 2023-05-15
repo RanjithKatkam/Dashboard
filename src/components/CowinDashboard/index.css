@@ -1,0 +1,61 @@
+.main-container {
+  background-color: #161625;
+  padding: 5px 40px;
+  height: auto;
+}
+
+.success-container {
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  height: 13%;
+  padding: 10px 0px;
+}
+
+.logo {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.logo-name {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.loading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.failure-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.failure-img {
+  width: 40%;
+  margin-top: 40px;
+}
+
+.failure-msg {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 30px;
+}
